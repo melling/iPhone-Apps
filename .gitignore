@@ -1,0 +1,43 @@
+bin/*
+*~
+*/build
+*#
+.svn
+.idea/**
+.swp
+tmp/*
+.DS_Store
+*.class
+*.backup
+*.jar
+*.launch
+*.ipr
+*.iws
+*.tmproj
+ivy.xml
+*.iws
+*.iml
+.classpath
+.DS_Store
+.project
+.settings
+R.java
+/out/**
+stacktrace.log
+test/reports
+# web application files that are overwritten by "grails upgrade"
+#  cf. GRAILS_HOME/scripts/Upgrade.groovy, target( upgrade )
+/web-app/WEB-INF
+.classpath
+.project
+.settings
+/*.launch
+/*.tmproj
+
+# logs
+stacktrace.log
+/test/reports
+
+# project release file
+*.war
+*.apk
