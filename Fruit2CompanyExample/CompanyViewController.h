@@ -1,5 +1,5 @@
 //
-//  FruitViewController.h
+//  companyViewController.h
 //  Fruit
 //
 //  Created by Michael Mellinger on 6/15/10.
@@ -10,7 +10,7 @@
 
 
 @interface CompanyViewController : UIViewController {
-	IBOutlet UITextView *fruitDescription;
+	IBOutlet UITextView *companyDescription;
 }
 
 @property(nonatomic,retain) IBOutlet UITextView *companyDescription;

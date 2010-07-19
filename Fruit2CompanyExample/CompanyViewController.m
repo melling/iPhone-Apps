@@ -1,5 +1,5 @@
 //
-//  FruitViewController.m
+//  companyViewController.m
 //  Fruit
 //
 //  Created by Michael Mellinger on 6/15/10.

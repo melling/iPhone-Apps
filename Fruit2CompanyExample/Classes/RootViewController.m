@@ -7,18 +7,18 @@
 //
 
 #import "RootViewController.h"
-#import "FruitAppDelegate.h"
+#import "CompanyAppDelegate.h"
 #import "Company.h"
 
 @implementation RootViewController
-@synthesize fruitView;
+@synthesize companyView;
 
 - (void)viewDidLoad {
     [super viewDidLoad];
 
     // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
     // self.navigationItem.rightBarButtonItem = self.editButtonItem;
-	self.title = @"Fruits";
+	self.title = @"MarketApp";
 }
 
 /*
@@ -72,7 +72,7 @@
 
 // Customize the number of rows in the table view.
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-	FruitAppDelegate *appDelegate = (FruitAppDelegate *)[[UIApplication sharedApplication] delegate];
+	CompanyAppDelegate *appDelegate = (CompanyAppDelegate *)[[UIApplication sharedApplication] delegate];
 	
     return appDelegate.companies.count;
 }
@@ -89,7 +89,7 @@
     }
     
 	// Configure the cell.
-	FruitAppDelegate *appDelegate = (FruitAppDelegate *)[[UIApplication sharedApplication] delegate];
+	CompanyAppDelegate *appDelegate = (CompanyAppDelegate *)[[UIApplication sharedApplication] delegate];
 	Company *f = (Company *)[appDelegate.companies objectAtIndex:indexPath.row];
 	
 	[cell setText:f.name];
@@ -108,18 +108,18 @@
 	// [self.navigationController pushViewController:anotherViewController animated:YES];
 	// [anotherViewController release];
  
-	FruitAppDelegate *appDelegate = [(FruitAppDelegate *)[UIApplication sharedApplication] delegate];
+	CompanyAppDelegate *appDelegate = [(CompanyAppDelegate *)[UIApplication sharedApplication] delegate];
 	Company *company = (Company *)[appDelegate.companies objectAtIndex:indexPath.row];
 	
-	if (self.fruitView == nil) {
-		CompanyViewController *viewController = [[CompanyViewController alloc] initWithNibName:@"FruitViewController" bundle:[NSBundle mainBundle]];
-		self.fruitView = viewController;
+	if (self.companyView == nil) {
+		CompanyViewController *viewController = [[CompanyViewController alloc] initWithNibName:@"CompanyViewController" bundle:[NSBundle mainBundle]];
+		self.companyView = viewController;
 		[viewController release];
 	}
 	
-	[self.navigationController pushViewController:self.fruitView animated:YES];
-	self.fruitView.title = [company name];
-	[self.fruitView.companyDescription setText:[company description]];
+	[self.navigationController pushViewController:self.companyView animated:YES];
+	self.companyView.title = [company name];
+	[self.companyView.companyDescription setText:[company description]];
 							 
 }
 

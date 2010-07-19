@@ -10,8 +10,8 @@
 #import "CompanyViewController.h"
 
 @interface RootViewController : UITableViewController {
-	CompanyViewController *fruitView;
+	CompanyViewController *companyView;
 }
 
-@property(nonatomic,retain) CompanyViewController *fruitView;
+@property(nonatomic,retain) CompanyViewController *companyView;
 @end
