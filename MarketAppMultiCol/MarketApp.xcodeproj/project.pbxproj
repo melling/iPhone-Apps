@@ -15,6 +15,7 @@
 		3E25FBF611C720CA0048527F /* Company.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E25FBF511C720CA0048527F /* Company.m */; };
 		3E25FBF911C7CBB40048527F /* CompanyViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3E25FBF811C7CBB40048527F /* CompanyViewController.xib */; };
 		3E25FBFC11C7CC780048527F /* CompanyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E25FBFB11C7CC780048527F /* CompanyViewController.m */; };
+		3E38517611F5326E0086A0D7 /* MyTableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E38517411F5326E0086A0D7 /* MyTableCell.m */; };
 		3EA3930911F2A860007E5B9A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EA3930811F2A860007E5B9A /* Foundation.framework */; };
 		3EA3939A11F2AAAE007E5B9A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EA3939911F2AAAE007E5B9A /* CoreGraphics.framework */; };
 		3EA393A211F2AAC9007E5B9A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EA393A111F2AAC9007E5B9A /* UIKit.framework */; };
@@ -35,6 +36,8 @@
 		3E25FBF811C7CBB40048527F /* CompanyViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CompanyViewController.xib; sourceTree = "<group>"; };
 		3E25FBFA11C7CC780048527F /* CompanyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CompanyViewController.h; sourceTree = "<group>"; };
 		3E25FBFB11C7CC780048527F /* CompanyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CompanyViewController.m; sourceTree = "<group>"; };
+		3E38517411F5326E0086A0D7 /* MyTableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyTableCell.m; sourceTree = "<group>"; };
+		3E38517511F5326E0086A0D7 /* MyTableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyTableCell.h; sourceTree = "<group>"; };
 		3EA3930811F2A860007E5B9A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
 		3EA3939911F2AAAE007E5B9A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		3EA393A111F2AAC9007E5B9A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -58,6 +61,8 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				3E38517411F5326E0086A0D7 /* MyTableCell.m */,
+				3E38517511F5326E0086A0D7 /* MyTableCell.h */,
 				28C286DF0D94DF7D0034E888 /* RootViewController.h */,
 				28C286E00D94DF7D0034E888 /* RootViewController.m */,
 				1D3623240D0F684500981E51 /* CompanyAppDelegate.h */,
@@ -187,6 +192,7 @@
 				28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */,
 				3E25FBF611C720CA0048527F /* Company.m in Sources */,
 				3E25FBFC11C7CC780048527F /* CompanyViewController.m in Sources */,
+				3E38517611F5326E0086A0D7 /* MyTableCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
