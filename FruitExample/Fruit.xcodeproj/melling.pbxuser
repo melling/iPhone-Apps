@@ -84,10 +84,11 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 301255551;
-			PBXWorkspaceStateSaveDate = 301255551;
+			PBXPerProjectTemplateStateSaveDate = 301539930;
+			PBXWorkspaceStateSaveDate = 301539930;
 		};
 		perUserProjectItems = {
+			3E15E99D11F923CA002B27FF /* PBXTextBookmark */ = 3E15E99D11F923CA002B27FF /* PBXTextBookmark */;
 			3E25FC0811C7E1950048527F /* PBXTextBookmark */ = 3E25FC0811C7E1950048527F /* PBXTextBookmark */;
 			3E25FC0911C7E1950048527F /* PBXTextBookmark */ = 3E25FC0911C7E1950048527F /* PBXTextBookmark */;
 			3EA392F611F2A45A007E5B9A /* PBXTextBookmark */ = 3EA392F611F2A45A007E5B9A /* PBXTextBookmark */;
@@ -96,7 +97,6 @@
 			3EA392FB11F2A45A007E5B9A /* PlistBookmark */ = 3EA392FB11F2A45A007E5B9A /* PlistBookmark */;
 			3EAE092811F4C91F005BC8F5 /* PBXTextBookmark */ = 3EAE092811F4C91F005BC8F5 /* PBXTextBookmark */;
 			3EAE092911F4C91F005BC8F5 /* PBXTextBookmark */ = 3EAE092911F4C91F005BC8F5 /* PBXTextBookmark */;
-			3EAE092E11F4CA36005BC8F5 /* PBXTextBookmark */ = 3EAE092E11F4CA36005BC8F5 /* PBXTextBookmark */;
 			3EAE096811F4CEC5005BC8F5 /* PBXTextBookmark */ = 3EAE096811F4CEC5005BC8F5 /* PBXTextBookmark */;
 			3EDF82F511C842EA0080E283 /* PBXTextBookmark */ = 3EDF82F511C842EA0080E283 /* PBXTextBookmark */;
 		};
@@ -110,6 +110,16 @@
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 364}";
 		};
+	};
+	3E15E99D11F923CA002B27FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3E25FBFB11C7CC780048527F /* FruitViewController.m */;
+		name = "FruitViewController.m: 12";
+		rLen = 0;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 875;
+		vrLoc = 0;
 	};
 	3E25FBE911C720850048527F /* Fruit */ = {
 		isa = PBXExecutable;
@@ -261,16 +271,6 @@
 		rLoc = 337;
 		rType = 0;
 		vrLen = 344;
-		vrLoc = 0;
-	};
-	3EAE092E11F4CA36005BC8F5 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 3E25FBFB11C7CC780048527F /* FruitViewController.m */;
-		name = "FruitViewController.m: 12";
-		rLen = 0;
-		rLoc = 210;
-		rType = 0;
-		vrLen = 900;
 		vrLoc = 0;
 	};
 	3EAE096811F4CEC5005BC8F5 /* PBXTextBookmark */ = {
