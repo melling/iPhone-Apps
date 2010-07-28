@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TVAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {713, 442}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{381, 1229}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TVAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {866, 1326}}";
+			sepNavSelRange = "{1951, 1}";
+			sepNavVisRange = "{1966, 1012}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TableView4 */ = {
+		activeExec = 0;
+		executables = (
+			3E51A8D211FFD33100397716 /* TableView4 */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3E51A8D211FFD33100397716 /* TableView4 */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TableView4 */;
+		codeSenseManager = 3E51A8E511FFD33E00397716 /* Code sense */;
+		executables = (
+			3E51A8D211FFD33100397716 /* TableView4 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					535,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 301978417;
+			PBXWorkspaceStateSaveDate = 301978417;
+		};
+		perUserProjectItems = {
+			3E51A8F211FFD43B00397716 /* PBXTextBookmark */ = 3E51A8F211FFD43B00397716 /* PBXTextBookmark */;
+			3E51A8F311FFD43B00397716 /* PBXTextBookmark */ = 3E51A8F311FFD43B00397716 /* PBXTextBookmark */;
+			3E51A8F411FFD43B00397716 /* PBXTextBookmark */ = 3E51A8F411FFD43B00397716 /* PBXTextBookmark */;
+			3E51A8F511FFD43B00397716 /* PBXTextBookmark */ = 3E51A8F511FFD43B00397716 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3E51A8E411FFD33E00397716 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {713, 403}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{225, 1374}";
+		};
+	};
+	3E51A8D211FFD33100397716 /* TableView4 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TableView4;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3E51A8E411FFD33E00397716 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3E51A8E511FFD33E00397716 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3E51A8F211FFD43B00397716 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1374;
+		vrLoc = 225;
+	};
+	3E51A8F311FFD43B00397716 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TVAppDelegate.h */;
+		name = "TVAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1229;
+		vrLoc = 381;
+	};
+	3E51A8F411FFD43B00397716 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TVAppDelegate.m */;
+		name = "TVAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1295;
+		vrLoc = 1440;
+	};
+	3E51A8F511FFD43B00397716 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TVAppDelegate.m */;
+		name = "TVAppDelegate.m: 38";
+		rLen = 1;
+		rLoc = 1951;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 1966;
+	};
+}

@@ -296,7 +296,7 @@
 							<real>216</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>513 153 968 692 0 0 1440 878 </string>
+						<string>256 162 968 692 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -326,7 +326,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>3E256BAC11FE7F830074ECD7</string>
+										<string>3E256BAF11FF1A550074ECD7</string>
 										<key>history</key>
 										<array>
 											<string>3E256B5E11FE728F0074ECD7</string>
@@ -349,7 +349,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {730, 465}}</string>
 								<key>RubberWindowFrame</key>
-								<string>513 153 968 692 0 0 1440 878 </string>
+								<string>256 162 968 692 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -369,7 +369,7 @@
 								<key>Frame</key>
 								<string>{{0, 470}, {730, 181}}</string>
 								<key>RubberWindowFrame</key>
-								<string>513 153 968 692 0 0 1440 878 </string>
+								<string>256 162 968 692 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -539,7 +539,7 @@
 		<string>/Users/melling/dev/iphone/iMarketApp/iCalculator/iCalculator.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>513 153 968 692 0 0 1440 878 </string>
+	<string>256 162 968 692 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

@@ -1,0 +1,114 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* TVAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {859, 2145}}";
+			sepNavSelRange = "{3756, 10}";
+			sepNavVisRange = "{3141, 1563}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TableView5 */ = {
+		activeExec = 0;
+		executables = (
+			3E51A8F911FFD48100397716 /* TableView5 */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3E51A8F911FFD48100397716 /* TableView5 */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TableView5 */;
+		codeSenseManager = 3E51A90C11FFD48500397716 /* Code sense */;
+		executables = (
+			3E51A8F911FFD48100397716 /* TableView5 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					659,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 301978753;
+			PBXWorkspaceStateSaveDate = 301978753;
+		};
+		perUserProjectItems = {
+			3E51A94C11FFD81B00397716 /* PBXBookmark */ = 3E51A94C11FFD81B00397716 /* PBXBookmark */;
+			3E51A94D11FFD81B00397716 /* PBXTextBookmark */ = 3E51A94D11FFD81B00397716 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3E51A90B11FFD48500397716 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3E51A8F911FFD48100397716 /* TableView5 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TableView5;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3E51A90B11FFD48500397716 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3E51A90C11FFD48500397716 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3E51A94C11FFD81B00397716 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TVAppDelegate.m */;
+	};
+	3E51A94D11FFD81B00397716 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TVAppDelegate.m */;
+		name = "TVAppDelegate.m: 90";
+		rLen = 10;
+		rLoc = 3756;
+		rType = 0;
+		vrLen = 1563;
+		vrLoc = 3141;
+	};
+}
