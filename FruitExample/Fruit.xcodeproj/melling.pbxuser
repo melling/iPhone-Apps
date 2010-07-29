@@ -84,8 +84,8 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 301539930;
-			PBXWorkspaceStateSaveDate = 301539930;
+			PBXPerProjectTemplateStateSaveDate = 302022261;
+			PBXWorkspaceStateSaveDate = 302022261;
 		};
 		perUserProjectItems = {
 			3E15E99D11F923CA002B27FF /* PBXTextBookmark */ = 3E15E99D11F923CA002B27FF /* PBXTextBookmark */;
@@ -97,8 +97,8 @@
 			3EA392FB11F2A45A007E5B9A /* PlistBookmark */ = 3EA392FB11F2A45A007E5B9A /* PlistBookmark */;
 			3EAE092811F4C91F005BC8F5 /* PBXTextBookmark */ = 3EAE092811F4C91F005BC8F5 /* PBXTextBookmark */;
 			3EAE092911F4C91F005BC8F5 /* PBXTextBookmark */ = 3EAE092911F4C91F005BC8F5 /* PBXTextBookmark */;
-			3EAE096811F4CEC5005BC8F5 /* PBXTextBookmark */ = 3EAE096811F4CEC5005BC8F5 /* PBXTextBookmark */;
 			3EDF82F511C842EA0080E283 /* PBXTextBookmark */ = 3EDF82F511C842EA0080E283 /* PBXTextBookmark */;
+			3EEEBBFC12007FA0000C8B97 /* PBXTextBookmark */ = 3EEEBBFC12007FA0000C8B97 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 3E25FBF211C720900048527F /* Source Control */;
 		userBuildSettings = {
@@ -187,9 +187,9 @@
 	};
 	3E25FBFB11C7CC780048527F /* FruitViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1146, 845}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 832}}";
 			sepNavSelRange = "{210, 0}";
-			sepNavVisRange = "{0, 875}";
+			sepNavVisRange = "{0, 853}";
 		};
 	};
 	3E25FC0811C7E1950048527F /* PBXTextBookmark */ = {
@@ -273,16 +273,6 @@
 		vrLen = 344;
 		vrLoc = 0;
 	};
-	3EAE096811F4CEC5005BC8F5 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 3E25FBFB11C7CC780048527F /* FruitViewController.m */;
-		name = "FruitViewController.m: 12";
-		rLen = 0;
-		rLoc = 210;
-		rType = 0;
-		vrLen = 875;
-		vrLoc = 0;
-	};
 	3EDF82F511C842EA0080E283 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
@@ -291,6 +281,16 @@
 		rLoc = 205;
 		rType = 0;
 		vrLen = 363;
+		vrLoc = 0;
+	};
+	3EEEBBFC12007FA0000C8B97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3E25FBFB11C7CC780048527F /* FruitViewController.m */;
+		name = "FruitViewController.m: 12";
+		rLen = 0;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 853;
 		vrLoc = 0;
 	};
 }

@@ -92,7 +92,7 @@
 	FruitAppDelegate *appDelegate = (FruitAppDelegate *)[[UIApplication sharedApplication] delegate];
 	Fruit *f = (Fruit *)[appDelegate.fruits objectAtIndex:indexPath.row];
 	
-	[cell setText:f.name];
+	[cell.textLabel setText:f.name];
 	
 	return cell;
 }
