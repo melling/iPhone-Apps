@@ -3,15 +3,15 @@
 	1D3623240D0F684500981E51 /* CDCAppDelegate.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {660, 429}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 1607}";
+			sepNavSelRange = "{1564, 0}";
+			sepNavVisRange = "{0, 1605}";
 		};
 	};
 	1D3623250D0F684500981E51 /* CDCAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {635, 689}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 1125}";
+			sepNavIntBoundsRect = "{{0, 0}, {645, 741}}";
+			sepNavSelRange = "{1931, 0}";
+			sepNavVisRange = "{1409, 785}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* CDC */ = {
@@ -34,7 +34,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					341,
+					482,
 					20,
 					48.16259765625,
 					43,
@@ -57,6 +57,15 @@
 		perUserProjectItems = {
 			3E9226BA12073FA7003D4738 /* XCBuildMessageTextBookmark */ = 3E9226BA12073FA7003D4738 /* XCBuildMessageTextBookmark */;
 			3E9226BB12073FA7003D4738 /* PBXTextBookmark */ = 3E9226BB12073FA7003D4738 /* PBXTextBookmark */;
+			3E9226CE12074310003D4738 /* PBXTextBookmark */ = 3E9226CE12074310003D4738 /* PBXTextBookmark */;
+			3E9226CF12074310003D4738 /* XCBuildMessageTextBookmark */ = 3E9226CF12074310003D4738 /* XCBuildMessageTextBookmark */;
+			3E9226D012074310003D4738 /* PBXTextBookmark */ = 3E9226D012074310003D4738 /* PBXTextBookmark */;
+			3E9226D31207431E003D4738 /* PBXTextBookmark */ = 3E9226D31207431E003D4738 /* PBXTextBookmark */;
+			3E9226D41207431E003D4738 /* PBXTextBookmark */ = 3E9226D41207431E003D4738 /* PBXTextBookmark */;
+			3E9226D51207431E003D4738 /* PBXTextBookmark */ = 3E9226D51207431E003D4738 /* PBXTextBookmark */;
+			3E9226D61207431E003D4738 /* PBXTextBookmark */ = 3E9226D61207431E003D4738 /* PBXTextBookmark */;
+			3E9226D71207431E003D4738 /* PBXTextBookmark */ = 3E9226D71207431E003D4738 /* PBXTextBookmark */;
+			3E9226D81207431E003D4738 /* PBXTextBookmark */ = 3E9226D81207431E003D4738 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 3E9226B612072CB7003D4738 /* Source Control */;
 		userBuildSettings = {
@@ -122,6 +131,109 @@
 		rType = 0;
 		vrLen = 735;
 		vrLoc = 1200;
+	};
+	3E9226CE12074310003D4738 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41B6F62C0FABBA910047CC2A /* CDCViewController.m */;
+		name = "CDCViewController.m: 21";
+		rLen = 0;
+		rLoc = 1299;
+		rType = 0;
+		vrLen = 735;
+		vrLoc = 1200;
+	};
+	3E9226CF12074310003D4738 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Control reaches end of non-void function";
+		fRef = 1D3623250D0F684500981E51 /* CDCAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 40;
+		rType = 1;
+	};
+	3E9226D012074310003D4738 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CDCAppDelegate.m */;
+		name = "CDCAppDelegate.m: 40";
+		rLen = 0;
+		rLoc = 1931;
+		rType = 0;
+		vrLen = 785;
+		vrLoc = 1409;
+	};
+	3E9226D31207431E003D4738 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41B6F6290FABBA910047CC2A /* CDCUIView.h */;
+		name = "CDCUIView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1544;
+		vrLoc = 0;
+	};
+	3E9226D41207431E003D4738 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41B6F62A0FABBA910047CC2A /* CDCUIView.m */;
+		name = "CDCUIView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1356;
+		vrLoc = 458;
+	};
+	3E9226D51207431E003D4738 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41B6F62C0FABBA910047CC2A /* CDCViewController.m */;
+		name = "CDCViewController.m: 35";
+		rLen = 0;
+		rLoc = 1677;
+		rType = 0;
+		vrLen = 1261;
+		vrLoc = 679;
+	};
+	3E9226D61207431E003D4738 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CDCAppDelegate.m */;
+		name = "CDCAppDelegate.m: 29";
+		rLen = 0;
+		rLoc = 1476;
+		rType = 0;
+		vrLen = 1601;
+		vrLoc = 225;
+	};
+	3E9226D71207431E003D4738 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CDCAppDelegate.h */;
+		name = "CDCAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1607;
+		vrLoc = 0;
+	};
+	3E9226D81207431E003D4738 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CDCAppDelegate.h */;
+		name = "CDCAppDelegate.h: 31";
+		rLen = 0;
+		rLoc = 1564;
+		rType = 0;
+		vrLen = 1605;
+		vrLoc = 0;
+	};
+	41B6F6290FABBA910047CC2A /* CDCUIView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {660, 418}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1544}";
+		};
+	};
+	41B6F62A0FABBA910047CC2A /* CDCUIView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {660, 533}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{458, 1356}";
+		};
 	};
 	41B6F62C0FABBA910047CC2A /* CDCViewController.m */ = {
 		uiCtxt = {
