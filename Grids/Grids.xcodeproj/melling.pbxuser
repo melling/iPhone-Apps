@@ -15,9 +15,9 @@
 	};
 	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {747, 1443}}";
+			sepNavIntBoundsRect = "{{0, 0}, {747, 1430}}";
 			sepNavSelRange = "{1045, 7}";
-			sepNavVisRange = "{1493, 872}";
+			sepNavVisRange = "{1493, 871}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -37,7 +37,7 @@
 					20,
 					513,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -52,14 +52,14 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 301267682;
-			PBXWorkspaceStateSaveDate = 301267682;
+			PBXPerProjectTemplateStateSaveDate = 302542297;
+			PBXWorkspaceStateSaveDate = 302542297;
 		};
 		perUserProjectItems = {
 			3EAE09D911F4FD77005BC8F5 /* PBXTextBookmark */ = 3EAE09D911F4FD77005BC8F5 /* PBXTextBookmark */;
 			3EAE09DA11F4FD77005BC8F5 /* PBXTextBookmark */ = 3EAE09DA11F4FD77005BC8F5 /* PBXTextBookmark */;
-			3EAE09DB11F4FD77005BC8F5 /* PBXTextBookmark */ = 3EAE09DB11F4FD77005BC8F5 /* PBXTextBookmark */;
 			3EAE09DD11F500FA005BC8F5 /* PBXTextBookmark */ = 3EAE09DD11F500FA005BC8F5 /* PBXTextBookmark */;
+			3EC1100C12086E2700608997 /* PBXTextBookmark */ = 3EC1100C12086E2700608997 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 3EAE09C811F4FB0E005BC8F5 /* Source Control */;
 		userBuildSettings = {
@@ -127,16 +127,6 @@
 		vrLen = 530;
 		vrLoc = 31;
 	};
-	3EAE09DB11F4FD77005BC8F5 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
-		name = "RootViewController.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 505;
-		vrLoc = 81;
-	};
 	3EAE09DD11F500FA005BC8F5 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
@@ -145,6 +135,16 @@
 		rLoc = 1045;
 		rType = 0;
 		vrLen = 872;
+		vrLoc = 1493;
+	};
+	3EC1100C12086E2700608997 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 46";
+		rLen = 7;
+		rLoc = 1045;
+		rType = 0;
+		vrLen = 871;
 		vrLoc = 1493;
 	};
 	7A2B26A60EA9868000B0ECF1 /* MyTableCell.m */ = {
