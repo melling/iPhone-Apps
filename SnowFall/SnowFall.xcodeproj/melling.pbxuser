@@ -1,0 +1,150 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SnowFallAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 273}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 457}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SnowFall */ = {
+		activeExec = 0;
+		executables = (
+			3E7076031208BD3600B51802 /* SnowFall */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SnowFallViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {754, 247}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 420}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SnowFallViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {628, 1274}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 280}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3E7076031208BD3600B51802 /* SnowFall */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SnowFall */;
+		codeSenseManager = 3E70760F1208BD3900B51802 /* Code sense */;
+		executables = (
+			3E7076031208BD3600B51802 /* SnowFall */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 302562640;
+			PBXWorkspaceStateSaveDate = 302562640;
+		};
+		perUserProjectItems = {
+			3E70762A1208BD7400B51802 /* PBXTextBookmark */ = 3E70762A1208BD7400B51802 /* PBXTextBookmark */;
+			3E70762B1208BD7400B51802 /* PBXTextBookmark */ = 3E70762B1208BD7400B51802 /* PBXTextBookmark */;
+			3E70762C1208BD7400B51802 /* PBXBookmark */ = 3E70762C1208BD7400B51802 /* PBXBookmark */;
+			3E70762D1208BD7400B51802 /* PBXTextBookmark */ = 3E70762D1208BD7400B51802 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3E70760E1208BD3900B51802 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3E7076031208BD3600B51802 /* SnowFall */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SnowFall;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3E70760E1208BD3900B51802 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3E70760F1208BD3900B51802 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3E70762A1208BD7400B51802 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SnowFallViewController.h */;
+		name = "SnowFallViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 420;
+		vrLoc = 0;
+	};
+	3E70762B1208BD7400B51802 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SnowFallViewController.m */;
+		name = "SnowFallViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 280;
+		vrLoc = 0;
+	};
+	3E70762C1208BD7400B51802 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SnowFallAppDelegate.h */;
+	};
+	3E70762D1208BD7400B51802 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SnowFallAppDelegate.h */;
+		name = "SnowFallAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 457;
+		vrLoc = 0;
+	};
+}
