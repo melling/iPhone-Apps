@@ -4,15 +4,15 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {530, 273}}";
 			sepNavSelRange = "{89, 0}";
-			sepNavVisRange = "{0, 441}";
+			sepNavVisRange = "{0, 366}";
 			sepNavWindowFrame = "{{15, 26}, {1338, 847}}";
 		};
 	};
 	1D3623250D0F684500981E51 /* Tabs1AppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1965, 1053}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1105}}";
 			sepNavSelRange = "{510, 0}";
-			sepNavVisRange = "{2197, 329}";
+			sepNavVisRange = "{2196, 330}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* Tabs1 */ = {
@@ -55,17 +55,17 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 302477296;
-			PBXWorkspaceStateSaveDate = 302477296;
+			PBXPerProjectTemplateStateSaveDate = 302482146;
+			PBXWorkspaceStateSaveDate = 302482146;
 		};
 		perUserProjectItems = {
-			3E9227D712076F0F003D4738 = 3E9227D712076F0F003D4738 /* PBXTextBookmark */;
-			3E9227D812076F0F003D4738 = 3E9227D812076F0F003D4738 /* PBXTextBookmark */;
-			3E9227D912076F0F003D4738 = 3E9227D912076F0F003D4738 /* PBXTextBookmark */;
-			3E9227DA12076F0F003D4738 = 3E9227DA12076F0F003D4738 /* PBXTextBookmark */;
-			3E9227DB12076F0F003D4738 = 3E9227DB12076F0F003D4738 /* PBXTextBookmark */;
-			3E9227F612076F5C003D4738 = 3E9227F612076F5C003D4738 /* PBXTextBookmark */;
-			3E92280D12076FF3003D4738 /* PBXTextBookmark */ = 3E92280D12076FF3003D4738 /* PBXTextBookmark */;
+			3E9227D712076F0F003D4738 /* PBXTextBookmark */ = 3E9227D712076F0F003D4738 /* PBXTextBookmark */;
+			3E9227D812076F0F003D4738 /* PBXTextBookmark */ = 3E9227D812076F0F003D4738 /* PBXTextBookmark */;
+			3E92281F12077F9F003D4738 /* PBXBookmark */ = 3E92281F12077F9F003D4738 /* PBXBookmark */;
+			3E92286512078422003D4738 /* PBXBookmark */ = 3E92286512078422003D4738 /* PBXBookmark */;
+			3E92286612078422003D4738 /* PBXTextBookmark */ = 3E92286612078422003D4738 /* PBXTextBookmark */;
+			3E92286712078422003D4738 /* PBXTextBookmark */ = 3E92286712078422003D4738 /* PBXTextBookmark */;
+			3E92286812078422003D4738 /* PBXTextBookmark */ = 3E92286812078422003D4738 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 3E9227B912076757003D4738 /* Source Control */;
 		userBuildSettings = {
@@ -147,51 +147,42 @@
 		vrLen = 238;
 		vrLoc = 0;
 	};
-	3E9227D912076F0F003D4738 /* PBXTextBookmark */ = {
+	3E92281F12077F9F003D4738 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3E92281B12077F18003D4738 /* whiteButton.png */;
+	};
+	3E92286512078422003D4738 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3E92281A12077F18003D4738 /* blueButton.png */;
+	};
+	3E92286612078422003D4738 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Tabs1AppDelegate.m */;
+		name = "Tabs1AppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 510;
+		rType = 0;
+		vrLen = 330;
+		vrLoc = 2196;
+	};
+	3E92286712078422003D4738 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623240D0F684500981E51 /* Tabs1AppDelegate.h */;
 		name = "Tabs1AppDelegate.h: 6";
 		rLen = 0;
 		rLoc = 89;
 		rType = 0;
-		vrLen = 441;
+		vrLen = 366;
 		vrLoc = 0;
 	};
-	3E9227DA12076F0F003D4738 /* PBXTextBookmark */ = {
+	3E92286812078422003D4738 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* Tabs1AppDelegate.m */;
+		fRef = 1D3623240D0F684500981E51 /* Tabs1AppDelegate.h */;
+		name = "Tabs1AppDelegate.h: 6";
 		rLen = 0;
-		rLoc = 2532;
+		rLoc = 89;
 		rType = 0;
-	};
-	3E9227DB12076F0F003D4738 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* Tabs1AppDelegate.m */;
-		name = "Tabs1AppDelegate.m: 22";
-		rLen = 0;
-		rLoc = 510;
-		rType = 0;
-		vrLen = 335;
-		vrLoc = 2197;
-	};
-	3E9227F612076F5C003D4738 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* Tabs1AppDelegate.m */;
-		name = "Tabs1AppDelegate.m: 22";
-		rLen = 0;
-		rLoc = 510;
-		rType = 0;
-		vrLen = 335;
-		vrLoc = 2197;
-	};
-	3E92280D12076FF3003D4738 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* Tabs1AppDelegate.m */;
-		name = "Tabs1AppDelegate.m: 22";
-		rLen = 0;
-		rLoc = 510;
-		rType = 0;
-		vrLen = 329;
-		vrLoc = 2197;
+		vrLen = 366;
+		vrLoc = 0;
 	};
 }
