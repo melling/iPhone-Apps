@@ -1,0 +1,168 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MinutesToMidnightAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{570, 0}";
+			sepNavVisRange = "{0, 578}";
+			sepNavWindowFrame = "{{107, 231}, {750, 558}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MinutesToMidnightAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {936, 533}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 426}";
+			sepNavWindowFrame = "{{385, 196}, {750, 558}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MinutesToMidnight */ = {
+		activeExec = 0;
+		executables = (
+			3E25F9FE11C5E2360048527F /* MinutesToMidnight */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MinutesToMidnightViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {453, 222}}";
+			sepNavSelRange = "{323, 0}";
+			sepNavVisRange = "{0, 330}";
+			sepNavWindowFrame = "{{61, 273}, {750, 558}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MinutesToMidnightViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1013, 1209}}";
+			sepNavSelRange = "{2569, 0}";
+			sepNavVisRange = "{1362, 383}";
+			sepNavWindowFrame = "{{84, 216}, {1140, 594}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3E25F9FE11C5E2360048527F /* MinutesToMidnight */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MinutesToMidnight */;
+		codeSenseManager = 3E25FA1411C5E2420048527F /* Code sense */;
+		executables = (
+			3E25F9FE11C5E2360048527F /* MinutesToMidnight */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					249,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 302562727;
+			PBXWorkspaceStateSaveDate = 302562727;
+		};
+		perUserProjectItems = {
+			3E25FA2A11C5E83F0048527F /* PBXTextBookmark */ = 3E25FA2A11C5E83F0048527F /* PBXTextBookmark */;
+			3E25FA2B11C5E83F0048527F /* PBXTextBookmark */ = 3E25FA2B11C5E83F0048527F /* PBXTextBookmark */;
+			3E25FB0311C6A6DB0048527F /* PBXTextBookmark */ = 3E25FB0311C6A6DB0048527F /* PBXTextBookmark */;
+			3E70764E1208BE0900B51802 /* PBXTextBookmark */ = 3E70764E1208BE0900B51802 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3E25FA1311C5E2420048527F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3E25F9FE11C5E2360048527F /* MinutesToMidnight */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MinutesToMidnight;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3E25FA1311C5E2420048527F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3E25FA1411C5E2420048527F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3E25FA2A11C5E83F0048527F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MinutesToMidnightAppDelegate.m */;
+		name = "MinutesToMidnightAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 426;
+		vrLoc = 0;
+	};
+	3E25FA2B11C5E83F0048527F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MinutesToMidnightViewController.h */;
+		name = "MinutesToMidnightViewController.h: 14";
+		rLen = 0;
+		rLoc = 323;
+		rType = 0;
+		vrLen = 330;
+		vrLoc = 0;
+	};
+	3E25FB0311C6A6DB0048527F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MinutesToMidnightViewController.m */;
+		name = "MinutesToMidnightViewController.m: 91";
+		rLen = 0;
+		rLoc = 2569;
+		rType = 0;
+		vrLen = 383;
+		vrLoc = 1362;
+	};
+	3E70764E1208BE0900B51802 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MinutesToMidnightViewController.m */;
+		name = "MinutesToMidnightViewController.m: 91";
+		rLen = 0;
+		rLoc = 2569;
+		rType = 0;
+		vrLen = 383;
+		vrLoc = 1362;
+	};
+}
