@@ -18,7 +18,6 @@
 		28AD73880D9D96C1002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD73870D9D96C1002E5188 /* MainWindow.xib */; };
 		3E51A76D11FF943700397716 /* GoogleController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E51A76B11FF943700397716 /* GoogleController.m */; };
 		3E51A77011FF951500397716 /* GoogleController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3E51A76F11FF951500397716 /* GoogleController.xib */; };
-		3E51A77911FF965800397716 /* tabapp.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E51A77811FF965800397716 /* tabapp.png */; };
 		3E8E691811FD305500742D25 /* NewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E8E691611FD305500742D25 /* NewViewController.m */; };
 		3E8E691911FD305500742D25 /* NewViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3E8E691711FD305500742D25 /* NewViewController.xib */; };
 		3E8E692011FD32D200742D25 /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E8E691F11FD32D200742D25 /* libsqlite3.0.dylib */; };
@@ -52,7 +51,6 @@
 		3E51A76B11FF943700397716 /* GoogleController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoogleController.m; sourceTree = "<group>"; };
 		3E51A76C11FF943700397716 /* GoogleController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoogleController.h; sourceTree = "<group>"; };
 		3E51A76F11FF951500397716 /* GoogleController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GoogleController.xib; sourceTree = "<group>"; };
-		3E51A77811FF965800397716 /* tabapp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tabapp.png; path = ../../../tmp/tabapp.png; sourceTree = SOURCE_ROOT; };
 		3E8E691511FD305500742D25 /* NewViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewViewController.h; sourceTree = "<group>"; };
 		3E8E691611FD305500742D25 /* NewViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewViewController.m; sourceTree = "<group>"; };
 		3E8E691711FD305500742D25 /* NewViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NewViewController.xib; sourceTree = "<group>"; };
@@ -160,7 +158,6 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				3E51A77811FF965800397716 /* tabapp.png */,
 				2840D7CD1179279E00D7F93C /* FirstView.xib */,
 				282CCBFD0DB6C98000C4EA27 /* SecondView.xib */,
 				28AD73870D9D96C1002E5188 /* MainWindow.xib */,
@@ -231,7 +228,6 @@
 				3E8E696B11FD370500742D25 /* Notes2ViewController.xib in Resources */,
 				3E8E69C011FD3DF000742D25 /* HackerNewsController.xib in Resources */,
 				3E51A77011FF951500397716 /* GoogleController.xib in Resources */,
-				3E51A77911FF965800397716 /* tabapp.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -112,7 +112,7 @@ void addWatchlistTickers() {
 		int  units;
 		double price, lastPrice;
 		
-		symbol = sqlite3_column_text(statement, 0);
+		symbol = (char *)sqlite3_column_text(statement, 0);
 		units  = sqlite3_column_int(statement, 1);
 		price  = sqlite3_column_double(statement, 2);
 		lastPrice  = sqlite3_column_double(statement, 3);
