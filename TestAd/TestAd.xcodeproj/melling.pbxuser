@@ -1,0 +1,169 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* TestAd */ = {
+		activeExec = 0;
+		executables = (
+			3EE812F41220A7820068232A /* TestAd */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* TestAdViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {530, 299}}";
+			sepNavSelRange = "{198, 0}";
+			sepNavVisRange = "{89, 293}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* TestAdViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1495}}";
+			sepNavSelRange = "{252, 0}";
+			sepNavVisRange = "{0, 553}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3EE812F41220A7820068232A /* TestAd */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TestAd */;
+		codeSenseManager = 3EE8130D1220A78D0068232A /* Code sense */;
+		executables = (
+			3EE812F41220A7820068232A /* TestAd */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 304129922;
+			PBXWorkspaceStateSaveDate = 304129922;
+		};
+		perUserProjectItems = {
+			3EE813131220A8D80068232A /* XCBuildMessageTextBookmark */ = 3EE813131220A8D80068232A /* XCBuildMessageTextBookmark */;
+			3EE813141220A8D80068232A /* PBXTextBookmark */ = 3EE813141220A8D80068232A /* PBXTextBookmark */;
+			3EE813151220A8DB0068232A /* PBXTextBookmark */ = 3EE813151220A8DB0068232A /* PBXTextBookmark */;
+			3EE813161220A8DB0068232A /* XCBuildMessageTextBookmark */ = 3EE813161220A8DB0068232A /* XCBuildMessageTextBookmark */;
+			3EE813171220A8DB0068232A /* PBXTextBookmark */ = 3EE813171220A8DB0068232A /* PBXTextBookmark */;
+			3EE8131A1220A8F00068232A /* PBXTextBookmark */ = 3EE8131A1220A8F00068232A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3EE8130C1220A78D0068232A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3EE812F41220A7820068232A /* TestAd */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TestAd;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3EE8130C1220A78D0068232A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3EE8130D1220A78D0068232A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3EE813131220A8D80068232A /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Cannot find protocol declaration for 'ADBannerViewDelegate'";
+		fRef = 28D7ACF60DDB3853001CB0EB /* TestAdViewController.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 11;
+		rType = 1;
+	};
+	3EE813141220A8D80068232A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TestAdViewController.h */;
+		name = "TestAdViewController.h: 11";
+		rLen = 0;
+		rLoc = 198;
+		rType = 0;
+		vrLen = 273;
+		vrLoc = 89;
+	};
+	3EE813151220A8DB0068232A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TestAdViewController.m */;
+		name = "TestAdViewController.m: 13";
+		rLen = 0;
+		rLoc = 252;
+		rType = 0;
+		vrLen = 553;
+		vrLoc = 0;
+	};
+	3EE813161220A8DB0068232A /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Cannot find protocol declaration for 'ADBannerViewDelegate'";
+		fRef = 28D7ACF60DDB3853001CB0EB /* TestAdViewController.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 11;
+		rType = 1;
+	};
+	3EE813171220A8DB0068232A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TestAdViewController.h */;
+		name = "TestAdViewController.h: 11";
+		rLen = 0;
+		rLoc = 198;
+		rType = 0;
+		vrLen = 332;
+		vrLoc = 30;
+	};
+	3EE8131A1220A8F00068232A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TestAdViewController.h */;
+		name = "TestAdViewController.h: 12";
+		rLen = 0;
+		rLoc = 198;
+		rType = 0;
+		vrLen = 293;
+		vrLoc = 89;
+	};
+}
