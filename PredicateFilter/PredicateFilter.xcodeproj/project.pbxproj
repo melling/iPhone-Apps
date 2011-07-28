@@ -1,0 +1,298 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3EB0199113E108B900249530 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EB0199013E108B900249530 /* UIKit.framework */; };
+		3EB0199313E108B900249530 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EB0199213E108B900249530 /* Foundation.framework */; };
+		3EB0199513E108B900249530 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EB0199413E108B900249530 /* CoreGraphics.framework */; };
+		3EB0199B13E108B900249530 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3EB0199913E108B900249530 /* InfoPlist.strings */; };
+		3EB0199D13E108B900249530 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EB0199C13E108B900249530 /* main.m */; };
+		3EB019A113E108B900249530 /* PredicateFilterAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EB019A013E108B900249530 /* PredicateFilterAppDelegate.m */; };
+		3EB019A413E108B900249530 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3EB019A213E108B900249530 /* MainWindow.xib */; };
+		3EB019A713E108B900249530 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EB019A613E108B900249530 /* RootViewController.m */; };
+		3EB019AA13E108B900249530 /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3EB019A813E108B900249530 /* RootViewController.xib */; };
+		3EB019B613E1097400249530 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EB019B513E1097400249530 /* Person.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3EB0198C13E108B900249530 /* PredicateFilter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PredicateFilter.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3EB0199013E108B900249530 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		3EB0199213E108B900249530 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		3EB0199413E108B900249530 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		3EB0199813E108B900249530 /* PredicateFilter-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PredicateFilter-Info.plist"; sourceTree = "<group>"; };
+		3EB0199A13E108B900249530 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		3EB0199C13E108B900249530 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3EB0199E13E108B900249530 /* PredicateFilter-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "PredicateFilter-Prefix.pch"; sourceTree = "<group>"; };
+		3EB0199F13E108B900249530 /* PredicateFilterAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PredicateFilterAppDelegate.h; sourceTree = "<group>"; };
+		3EB019A013E108B900249530 /* PredicateFilterAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PredicateFilterAppDelegate.m; sourceTree = "<group>"; };
+		3EB019A313E108B900249530 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		3EB019A513E108B900249530 /* RootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		3EB019A613E108B900249530 /* RootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		3EB019A913E108B900249530 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/RootViewController.xib; sourceTree = "<group>"; };
+		3EB019B413E1097400249530 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		3EB019B513E1097400249530 /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3EB0198913E108B900249530 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3EB0199113E108B900249530 /* UIKit.framework in Frameworks */,
+				3EB0199313E108B900249530 /* Foundation.framework in Frameworks */,
+				3EB0199513E108B900249530 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3EB0198113E108B900249530 = {
+			isa = PBXGroup;
+			children = (
+				3EB0199613E108B900249530 /* PredicateFilter */,
+				3EB0198F13E108B900249530 /* Frameworks */,
+				3EB0198D13E108B900249530 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3EB0198D13E108B900249530 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3EB0198C13E108B900249530 /* PredicateFilter.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3EB0198F13E108B900249530 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3EB0199013E108B900249530 /* UIKit.framework */,
+				3EB0199213E108B900249530 /* Foundation.framework */,
+				3EB0199413E108B900249530 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3EB0199613E108B900249530 /* PredicateFilter */ = {
+			isa = PBXGroup;
+			children = (
+				3EB0199F13E108B900249530 /* PredicateFilterAppDelegate.h */,
+				3EB019A013E108B900249530 /* PredicateFilterAppDelegate.m */,
+				3EB019A213E108B900249530 /* MainWindow.xib */,
+				3EB019A513E108B900249530 /* RootViewController.h */,
+				3EB019A613E108B900249530 /* RootViewController.m */,
+				3EB019A813E108B900249530 /* RootViewController.xib */,
+				3EB0199713E108B900249530 /* Supporting Files */,
+				3EB019B413E1097400249530 /* Person.h */,
+				3EB019B513E1097400249530 /* Person.m */,
+			);
+			path = PredicateFilter;
+			sourceTree = "<group>";
+		};
+		3EB0199713E108B900249530 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3EB0199813E108B900249530 /* PredicateFilter-Info.plist */,
+				3EB0199913E108B900249530 /* InfoPlist.strings */,
+				3EB0199C13E108B900249530 /* main.m */,
+				3EB0199E13E108B900249530 /* PredicateFilter-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3EB0198B13E108B900249530 /* PredicateFilter */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3EB019AD13E108B900249530 /* Build configuration list for PBXNativeTarget "PredicateFilter" */;
+			buildPhases = (
+				3EB0198813E108B900249530 /* Sources */,
+				3EB0198913E108B900249530 /* Frameworks */,
+				3EB0198A13E108B900249530 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PredicateFilter;
+			productName = PredicateFilter;
+			productReference = 3EB0198C13E108B900249530 /* PredicateFilter.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3EB0198313E108B900249530 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = h4labs;
+			};
+			buildConfigurationList = 3EB0198613E108B900249530 /* Build configuration list for PBXProject "PredicateFilter" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 3EB0198113E108B900249530;
+			productRefGroup = 3EB0198D13E108B900249530 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3EB0198B13E108B900249530 /* PredicateFilter */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3EB0198A13E108B900249530 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3EB0199B13E108B900249530 /* InfoPlist.strings in Resources */,
+				3EB019A413E108B900249530 /* MainWindow.xib in Resources */,
+				3EB019AA13E108B900249530 /* RootViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3EB0198813E108B900249530 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3EB0199D13E108B900249530 /* main.m in Sources */,
+				3EB019A113E108B900249530 /* PredicateFilterAppDelegate.m in Sources */,
+				3EB019A713E108B900249530 /* RootViewController.m in Sources */,
+				3EB019B613E1097400249530 /* Person.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		3EB0199913E108B900249530 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3EB0199A13E108B900249530 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		3EB019A213E108B900249530 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3EB019A313E108B900249530 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		3EB019A813E108B900249530 /* RootViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3EB019A913E108B900249530 /* en */,
+			);
+			name = RootViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3EB019AB13E108B900249530 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		3EB019AC13E108B900249530 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3EB019AE13E108B900249530 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PredicateFilter/PredicateFilter-Prefix.pch";
+				INFOPLIST_FILE = "PredicateFilter/PredicateFilter-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		3EB019AF13E108B900249530 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PredicateFilter/PredicateFilter-Prefix.pch";
+				INFOPLIST_FILE = "PredicateFilter/PredicateFilter-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3EB0198613E108B900249530 /* Build configuration list for PBXProject "PredicateFilter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3EB019AB13E108B900249530 /* Debug */,
+				3EB019AC13E108B900249530 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3EB019AD13E108B900249530 /* Build configuration list for PBXNativeTarget "PredicateFilter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3EB019AE13E108B900249530 /* Debug */,
+				3EB019AF13E108B900249530 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3EB0198313E108B900249530 /* Project object */;
+}
